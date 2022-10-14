@@ -1,1 +1,1 @@
-"# Diligence" 
+# Diligence
