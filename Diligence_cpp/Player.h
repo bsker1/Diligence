@@ -5,6 +5,7 @@
 #define Player_h
 
 #include <iostream>
+#include <limits>
 
 using std::cout;
 using std::endl;

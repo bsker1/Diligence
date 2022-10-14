@@ -15,3 +15,6 @@ functions.o:
 
 clean:
 	rm *.o Diligence
+
+cleanwin:
+	del *.o Diligence.exe
